@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Lift & Shift Migration – On-Prem to AWS",
+    "description": "Designed and implemented a Lift & Shift migration strategy to move a traditional on-premises application stack to AWS while preserving the existing application architecture.\n\nThe solution includes Route 53 for DNS management, an Application Load Balancer for traffic distribution, EC2 instances running NGINX and Tomcat within an Auto Scaling Group, and dedicated private subnets for application and data tiers. Supporting services include MySQL, RabbitMQ, and Memcached, with Amazon CloudWatch used for monitoring and operational visibility.\n\nThe project demonstrates AWS networking, high availability design, traffic management, security group configuration, monitoring, and infrastructure architecture principles commonly used in production environments.",
+    "github": "https://github.com/7azeeem/vprofile-project",
+    "link": null,
+    "image": "/projects/lift-and-shift.jpg",
+    "tags": [
+      "AWS",
+      "EC2",
+      "VPC",
+      "ROUTE53",
+      "ALB",
+      "AUTOSCALING",
+      "S3",
+      "CLOUDWATCH",
+      "MYSQL",
+      "RABBITMQ",
+      "MEMCACHED",
+      "TOMCAT",
+      "NGINX"
+    ]
+  }
+]
